@@ -17,4 +17,4 @@ OpenChrome's extension tab and drag the folder over there
 ###WHY: 
 I find this particulary useful when developing web things and I have some script that automaticlly launch a local webserver and open the browser pointing to the server page. If you stop and restart the server many times you will end up with 10 tabs pointing to your localhost. This extension should avoid this.
 
-All credits to @mbhutton
+All credits to [@mbhutton](https://github.com/mbhutton/chrome-duplicate-tab-detector)
